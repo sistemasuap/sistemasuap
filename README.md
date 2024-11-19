@@ -1,7 +1,11 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img alt="Elmer de la paz " src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/banner.png">
 </p>
-<br>
+
+<p align="center">
+  <img alt="Elmer de la paz" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/Hand%20Wave.gif" width='40' align="left">
+  <h2>Hey everyone! I'm Elmer de la paz</h2>
+</p>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
@@ -25,30 +29,15 @@
 </p>
 </p>
 
+<!-- ## 👋 &nbsp;Hey everyone! I'm Sergie Code -->
 
+### 👨🏼‍💻 &nbsp;About Me
 
-<p align="center">
-  <em>
-    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+💻I'm a software engineer, specialized in frontend development, programming, and artificial intelligence.
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+📧Please feel free to contact me for any inquiries or collaborations! emdelapazt@gmail.com
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
-
+### ⚙️ &nbsp;GitHub Analytics
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
@@ -88,10 +77,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 
 
------
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
 
-Last Edited on: 17/04/2021
+Last Edited on: 16/08/2024
 
 
 
