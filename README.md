@@ -1,9 +1,5 @@
-<p align="center">
-  <img alt="Elmer de la paz " src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/banner.png">
-</p>
 
 <p align="center">
-  <img alt="Elmer de la paz" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/Hand%20Wave.gif" width='40' align="left">
   <h2>Hey everyone! I'm Elmer de la paz</h2>
 </p>
 
