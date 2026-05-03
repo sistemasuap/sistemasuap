@@ -29,7 +29,7 @@ $ cat profile.json
 ```json
 {
   "alias"     : "tooti code",
-  "name"      : "Elmer De la Paz Ttito",
+  "name"      : "Isyel",
   "role"      : "Backend Engineer",
   "location"  : "Peru 🇵🇪",
   "focus"     : ["REST APIs", "Microservices", "Event-Driven Architecture"],
@@ -37,7 +37,8 @@ $ cat profile.json
   "principles": ["Clean Code", "SOLID", "DDD", "Hexagonal Architecture"],
   "learning"  : ["Web3", "gRPC", "Machine Learning Ops"],
   "contact"   : "emdelapazt@gmail.com",
-  "status"    : "open_to_collaborate ✅"
+  "status"    : "open_to_collaborate ✅",
+  "date"    :   "16-08-15"
 }
 ```
 
@@ -71,7 +72,6 @@ Backend dev since day one — still shipping 🔥
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
@@ -165,17 +165,11 @@ Backend dev since day one — still shipping 🔥
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gecamepsis/gecamepsis/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gecamepsis/gecamepsis/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/gecamepsis/gecamepsis/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gecamepsis&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=ffffff" width="100%" />
 </div>
-
-> Para activar la serpiente crea el archivo `.github/workflows/snake.yml` → [instrucciones aquí](https://github.com/Platane/snk)
 
 ---
 
@@ -210,8 +204,3 @@ Thanks for visiting — let's build something great together 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
 </div>
-Last Edited on: 16/08/2015
-
-
-
-
